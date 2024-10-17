@@ -2,10 +2,8 @@
 
 here i have collected all server emulators + client for brawl stars v57
 
- ### Client ###
+ ### Android Client ###
  
-Android: soon
+https://drive.google.com/file/d/15wwwBgI5KwZyJw6SsBMioxfbyZGEmFsq/view?usp=drivesdk
 
-IOS: idt so 
-
-### Change the ip address and port (if needed) in libbsd.s.so located in the lib folder of the apk
+### Change the ip address and port (if needed) in libBSD.s.so located in the lib folder of the apk

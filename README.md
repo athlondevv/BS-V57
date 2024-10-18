@@ -8,8 +8,11 @@ credits: FidBon, LkPrtctrd
 
  https://github.com/RoneGames/BS-V57/archive/refs/heads/main.zip
 
- ### Client ###
+ ### Clients ###
  
-Android (Google Drive): https://drive.google.com/file/d/15wwwBgI5KwZyJw6SsBMioxfbyZGEmFsq/view?usp=drivesdk
+Android: https://drive.google.com/file/d/15wwwBgI5KwZyJw6SsBMioxfbyZGEmFsq/view?usp=drivesdk
+
+IOS:
+https://youtu.be/dQw4w9WgXcQ?si=2_plZzAoIhfD17kb
 
 ### Change the ip address and port (if needed) in libBSD.s.so located in the lib folder of the apk

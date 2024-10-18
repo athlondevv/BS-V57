@@ -1,6 +1,6 @@
 # BS-V57
 
-here i have collected all server emulators + client for brawl stars v57
+here i have collected all server emulators and clients (?) for brawl stars v57
 
 credits: FidBon, LkPrtctrd
 

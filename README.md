@@ -10,9 +10,7 @@ credits: FidBon, LkPrtctrd
 
  ### Clients ###
  
-Android: https://drive.google.com/file/d/15wwwBgI5KwZyJw6SsBMioxfbyZGEmFsq/view?usp=drivesdk
+ #### Android: https://drive.google.com/file/d/15wwwBgI5KwZyJw6SsBMioxfbyZGEmFsq/view?usp=drivesdk
+ Change ip address and port (if needed) in libBSD.s.so located in lib folder of apk
 
-IOS:
-https://youtu.be/dQw4w9WgXcQ?si=2_plZzAoIhfD17kb
-
-### Change the ip address and port (if needed) in libBSD.s.so located in the lib folder of the apk
+ #### IOS: https://youtu.be/dQw4w9WgXcQ?si=2_plZzAoIhfD17kb

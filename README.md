@@ -6,7 +6,7 @@ credits: FidBon, LkPrtctrd
 
  ### Servers ###
 
- https://github.com/RoneGames/BS-V57/archive/refs/heads/main.zip
+ https://github.com/athlondevv/BS-V57/archive/refs/heads/main.zip
 
  ### Clients ###
  

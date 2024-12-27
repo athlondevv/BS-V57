@@ -2,7 +2,7 @@
 
 here i have collected all server emulators and clients (?) for brawl stars v57
 
-credits: FidBon, LkPrtctrd
+credits: FidBon, LkPrtctrd, soufgameyt
 
  ### Servers ###
 
